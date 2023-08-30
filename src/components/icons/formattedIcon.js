@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {
+  IconDocument,
   IconExternal,
   IconFolder,
   IconFork,
@@ -16,6 +17,8 @@ import {
 
 const FormattedIcon = ({ name }) => {
   switch (name) {
+    case 'Document':
+      return <IconDocument />;
     case 'External':
       return <IconExternal />;
     case 'Folder':

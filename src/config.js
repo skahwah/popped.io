@@ -27,6 +27,10 @@ module.exports = {
     {
       name: 'Mastodon',
       url: 'https://mastodon.social/@sanjivkawa@infosec.exchange',
+    },
+    {
+      name: 'Document',
+      url: 'https://popped.io/resume.pdf',
     }
   ],
 

@@ -1,3 +1,4 @@
+export { default as IconDocument } from './document';
 export { default as IconExternal } from './external';
 export { default as IconFolder } from './folder';
 export { default as FormattedIcon } from './formattedIcon';

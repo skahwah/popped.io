@@ -16,6 +16,6 @@ Hello! I'm Sanjiv Kawa.
 
 I am a creative goal-oriented individual with over 10 years of experience as a cyber security consultant. 
 
-I currently hold the role of Senior Managing Security Consultant on the [IBM X-Force Red Adversary Services](https://www.ibm.com/services/adversary-simulation) team. Most of my time is spent performing mid-to-long term adversarial simulation engagements for some of the largest companies in the world. I turned my hobby into my full-time gig and absolutely love what I do!
+As a Senior Managing Security Consultant on the [IBM X-Force Red Adversary Services](https://www.ibm.com/services/adversary-simulation) team, I spend my time performing mid-to-long term adversarial simulation engagements for some of the largest companies in the world. I turned my hobby into my full-time gig and absolutely love what I do!
 
 My specialties include:

@@ -10,7 +10,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
-  max-width: 700px;
+  max-width: 725px;
 
   a {
     ${mixins.inlineLink};
@@ -142,7 +142,7 @@ const StyledTabContent = styled.div`
 const StyledJobTitle = styled.h4`
   color: ${colors.lightestSlate};
   font-size: ${fontSizes.xxl};
-  font-weight: 500;
+  font-weight: 00;
   margin-bottom: 5px;
 `;
 const StyledCompany = styled.span`

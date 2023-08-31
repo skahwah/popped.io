@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Sanjiv Kawa'
-subtitle: 'Explore, Learn, Grow & Give Back'
+subtitle: 'Learn, Improve, Stay Curious'
 buttonText: 'Get In Touch'
 ---
 

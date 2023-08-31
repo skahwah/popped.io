@@ -1,8 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import PropTypes from 'prop-types';
+import React from 'react';
 import styled from 'styled-components';
-import { theme, mixins, media } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+import { mixins } from '@styles';
 
 const StyledContainer = styled.footer`
   ${mixins.flexCenter};
@@ -19,7 +17,7 @@ const StyledContainer = styled.footer`
 const Footer = () => {
   return (
     <StyledContainer>
-            Feeling generous? <a href="https://www.buymeacoffee.com/sanjivkawa">Buy me a coffee ☕</a>
+            Feeling generous? <a href="https://www.buymeacoffee.com/sanjivkawa">Buy me a coffee <span role="img" aria-label="coffee">☕</span></a>
     </StyledContainer>
   );
 };

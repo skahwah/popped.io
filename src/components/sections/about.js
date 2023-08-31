@@ -114,7 +114,7 @@ const StyledAvatarLink = styled.a`
 
 const About = ({ data }) => {
   const { frontmatter, html } = data[0].node;
-  const { title, skills, certifications, contalks, avatar } = frontmatter;
+  const { title, skills, avatar } = frontmatter;
   const revealContainer = useRef(null);
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
 

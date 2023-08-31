@@ -7,7 +7,6 @@ module.exports = {
   siteUrl: 'https://popped.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-7HE3QVEYCY',
-  googleVerification: '',
   name: 'Sanjiv Kawa',
   email: 'sanjiv@popped.io',
   github: 'https://github.com/skahwah',

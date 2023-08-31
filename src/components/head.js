@@ -33,7 +33,7 @@ const Head = ({ metadata }) => (
       {metadata.title}
     </title>
     <link rel="shortcut icon" href={favicon} />
-    <link rel="canonical" href="https://popped.io/" />
+    <link rel="canonical" href={config.siteUrl} />
 
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />

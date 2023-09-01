@@ -17,8 +17,6 @@ const StyledContainer = styled.footer`
 const Footer = () => {
   return (
     <StyledContainer>
-            Feeling generous? <a href="https://www.buymeacoffee.com/sanjivkawa">Buy me a coffee <span role="img" aria-label="coffee">☕</span></a>
-            <br></br>
             <font size="2">Design Inspired by brittanychiang.com</font>
     </StyledContainer>
   );

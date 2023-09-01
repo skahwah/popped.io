@@ -23,3 +23,6 @@ npm start
 npm run deploy
 git add * && git commit -m "Updating Content" && git push origin main
 ```
+
+# Credit
+[brittanychiang.com](https://brittanychiang.com/) for the intial template design.

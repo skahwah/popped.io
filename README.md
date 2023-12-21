@@ -8,7 +8,7 @@ I've added my environment setup notes and some commands to run whenever I need t
 # Environment Setup
 ```
 sudo apt update && sudo apt upgrade -y
-sudo apt install libpng-dev pngquant autoconf libtool pkg-config plocate git libglu1-mesa-dev libxi6 libgconf-2-4 -y
+sudo apt update && sudo apt install libpng-dev pngquant autoconf libtool pkg-config plocate git libglu1-mesa-dev libxi6 libgconf-2-4 -y
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 bash
 git clone https://github.com/skahwah/popped.io.git

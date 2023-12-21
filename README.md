@@ -27,5 +27,5 @@ npm run deploy
 git add -f * && git commit -m "Updating Content" && git push origin main
 ```
 
-## Post Update
+# Post Update
 After updating, add a file called CNAME into the main branch and add popped.io into the file.

@@ -188,8 +188,7 @@ const certifications = [
   {cert: 'Certified Information Systems Security Professional (CISSP)', link: 'https://www.credly.com/badges/a5a79399-9112-412b-a843-708f4180f975'},
   {cert: 'Offensive Security Certified Professional (OSCP)', link: 'https://www.credly.com/badges/789c73aa-7d27-4f2f-89da-64a9080bd4d1'},
   {cert: 'Offensive Security Experienced Penetration Tester (OSEP)', link: 'https://www.credly.com/badges/55b78f69-c3ba-40d7-a5f4-a4c4e2d3ebac'},
-  {cert: 'Offensive Security Wireless Professional (OSWP)', link: 'https://www.credly.com/badges/fc50dbbe-35dc-4da1-84cb-bb2db8941248'},
-  {cert: 'CVE-2018-10956', link: 'https://labs.nettitude.com/blog/cve-2018-10956-unauthenticated-privileged-directory-traversal-in-ipconfigure-orchid-core-vms/'}
+  {cert: 'Offensive Security Wireless Professional (OSWP)', link: 'https://www.credly.com/badges/fc50dbbe-35dc-4da1-84cb-bb2db8941248'}
 ];
 
 const contalks = "https://github.com/skahwah/Conference-Talks";

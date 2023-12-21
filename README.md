@@ -24,5 +24,5 @@ npm start
 # Adding New Content
 ```
 npm run deploy
-git add * && git commit -m "Updating Content" && git push origin main
+git add -f * && git commit -m "Updating Content" && git push origin main
 ```

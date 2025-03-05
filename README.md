@@ -1,4 +1,5 @@
 # Description
+
 This branch contains the source code for my [website](https://popped.io).
 
 I've added my environment setup notes and some commands to run whenever I need to come back to the website and update content.
@@ -6,9 +7,10 @@ I've added my environment setup notes and some commands to run whenever I need t
 **NOTE:** Setup has to be done from 64-bit (x86) architecture.
 
 # Environment Setup
+
 ```
 sudo apt update && sudo apt upgrade -y
-sudo apt update && sudo apt install libpng-dev pngquant autoconf libtool pkg-config plocate git libglu1-mesa-dev libxi6 libgconf-2-4 -y
+sudo apt update && sudo apt install eslint libpng-dev pngquant autoconf libtool pkg-config plocate git libglu1-mesa-dev libxi6 libgconf-2-4 -y
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 bash
 git clone https://github.com/skahwah/popped.io.git
@@ -22,10 +24,12 @@ npm start
 ```
 
 # Adding New Content
+
 ```
 npm run deploy
 git add -f * && git commit -m "Updating Content" && git push origin main
 ```
 
 # Post Update
+
 After updating, add a file called CNAME into the main branch and add popped.io into the file.

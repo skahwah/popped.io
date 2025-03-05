@@ -7,4 +7,5 @@ range: 'Jun 2012 - Dec 2012'
 url: 'https://www.redhat.com'
 ---
 
-- Developed a Java application called [communityWebCrawler](https://archive.ph/AHYuT). The application performed analysis on security issues in the JBoss community forums. Issues were then ingested into a platform for engineers to address.
+- Developed a Java application called [communityWebCrawler](https://archive.ph/AHYuT).
+- The application analyzed security issues in JBoss forums and sent them to a platform for engineers to resolve.
